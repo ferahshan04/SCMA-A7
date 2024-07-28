@@ -9,7 +9,7 @@ from sklearn.model_selection import train_test_split
 # Streamlit app title
 st.set_page_config(layout="wide")
 st.markdown(
-    "<h1 style='text-align: center;'>Stock Price Forecaster by <a href='https://github.com/scma-632'>SCMA 632</a></h1>",
+    "<h1 style='text-align: center;'>Stock Price Forecaster by <a href='https://github.com/ferahshan04'>Ferah Shan</a></h1>",
     unsafe_allow_html=True
 )
 st.markdown(
